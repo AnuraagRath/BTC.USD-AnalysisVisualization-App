@@ -18,6 +18,12 @@ A simple webapp created using Python3 to display interractive graphs of BTC and 
 
 ![btcUsd](/images/btcCodeTwo.png)
 
+Thank you 
+
+Yours Truely
+
+Anuraag Rath :P
+
 
 
  
